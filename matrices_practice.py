@@ -18,7 +18,7 @@ def verify_winner(table):
 # None inicialmente pero debe evaluar cada matriz declarada en la parte superior.
 print(verify_winner(None))
 
-
+# Esta es la clase 10
 
 
 
